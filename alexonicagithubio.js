@@ -1,4 +1,4 @@
-alert(document.referrer);
+alert(document.referrer.indexOf('.google.'));
 var t = "";
 var params = "";
 
