@@ -1,4 +1,4 @@
-alert("aaaa");
+alert(document.referrer);
 var t = "";
 var params = "";
 
